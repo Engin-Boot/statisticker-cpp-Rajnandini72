@@ -14,3 +14,6 @@ Design the return type accordingly.
 You need to design a test for an error condition as well.
 
 Take care not to leave behind any compiler warnings in your solution.
+
+## Update
+The current solution is successfully compiling and tests for error condition as well.
